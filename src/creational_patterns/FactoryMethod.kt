@@ -1,4 +1,4 @@
-package patterns
+package creational_patterns
 
 fun main() {
     val queen = createPiece("qa5")

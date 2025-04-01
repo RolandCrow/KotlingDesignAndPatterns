@@ -1,4 +1,4 @@
-package patterns
+package creational_patterns
 
 fun main() {
     Logger.log("Hello World")
