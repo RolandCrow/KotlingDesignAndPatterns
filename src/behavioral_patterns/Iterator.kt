@@ -64,5 +64,3 @@ class Squad(private val units: List<Trooper>): Trooper() {
         return TrooperIterator(units)
     }
 }
-
-open class Trooper {}
