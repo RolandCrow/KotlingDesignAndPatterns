@@ -1,7 +1,6 @@
 package concurrency
 
 import kotlinx.coroutines.*
-import kotlin.coroutines.coroutineContext
 import kotlin.random.Random
 import kotlin.system.measureTimeMillis
 
