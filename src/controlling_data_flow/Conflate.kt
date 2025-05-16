@@ -1,11 +1,11 @@
 package controlling_data_flow
 
+import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.delay
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.conflate
-import kotlinx.coroutines.flow.flow
+import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.runBlocking
 
+@OptIn(FlowPreview::class)
 fun main() {
     runBlocking {
         val stock: Flow<Int> = flow {
@@ -21,5 +21,8 @@ fun main() {
             seconds++
             println("$seconds seconds -> received $number")
         }
+
+        val debounceFlow = stock.debounce(300L)
+        val sampleFlow = stock.sample(300L)
     }
 }

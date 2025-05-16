@@ -7,6 +7,15 @@ fun main() {
     startingThreads()
     threadRace()
     synchronisingThreads()
+    demonThread()
+}
+
+fun demonThread() {
+    thread(isDaemon = true) {
+        for(i in 1..1_000_000) {
+            println("daemon thread says: $i")
+        }
+    }
 }
 
 fun synchronisingThreads() {
