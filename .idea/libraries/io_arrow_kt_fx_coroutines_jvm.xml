@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="io.arrow.kt.fx.coroutines.jvm" type="repository">
+    <properties maven-id="io.arrow-kt:arrow-fx-coroutines-jvm:1.2.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-fx-coroutines-jvm/1.2.4/arrow-fx-coroutines-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-core-jvm/1.2.4/arrow-core-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-atomic-jvm/1.2.4/arrow-atomic-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-continuations-jvm/1.2.4/arrow-continuations-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-annotations-jvm/1.2.4/arrow-annotations-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.23/animal-sniffer-annotations-1.23.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-autoclose-jvm/1.2.4/arrow-autoclose-jvm-1.2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

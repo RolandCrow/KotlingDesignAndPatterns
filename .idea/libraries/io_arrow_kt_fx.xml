@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="io.arrow.kt.fx" type="repository">
+    <properties maven-id="io.arrow-kt:arrow-fx:0.12.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-fx/0.12.1/arrow-fx-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-core/0.12.1/arrow-core-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-core-data/0.12.1/arrow-core-data-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-annotations/0.12.1/arrow-annotations-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/kindedj/kindedj/1.1.0/kindedj-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-continuations/0.12.1/arrow-continuations-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-fx-suspend-connection/0.12.1/arrow-fx-suspend-connection-0.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.4.2/kotlinx-coroutines-core-jvm-1.4.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.4.0/kotlin-stdlib-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.0/kotlin-stdlib-common-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -13,5 +13,7 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="jetbrains.kotlinx.coroutines.core" level="project" />
     <orderEntry type="library" name="io.arrow.kt.core" level="project" />
+    <orderEntry type="library" name="io.arrow.kt.fx.coroutines1" level="project" />
+    <orderEntry type="library" name="io.arrow.kt.fx.stm.jvm" level="project" />
   </component>
 </module>
